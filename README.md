@@ -1,6 +1,12 @@
 # 💫 About Me:
 I'm a passionate MERN Stack Developer with a strong focus on building efficient, scalable, and user-friendly applications. I love transforming ideas into reality using modern web technologies.
 
+🚀 What I Do
+ - Crafting responsive and dynamic web applications
+ - Building full-stack solutions with the MERN stack
+ - Creating intuitive user interfaces and seamless user experiences
+ - Collaborating on open-source projects and learning new technologies
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fshahriyar393@gmail.com) 

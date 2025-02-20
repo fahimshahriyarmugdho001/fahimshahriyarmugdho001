@@ -21,15 +21,14 @@ I'm a passionate MERN Stack Developer with a strong focus on building efficient,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fahimshahriyarmugdho001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=fahimshahriyarmugdho001&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahimshahriyarmugdho001/fahimshahriyarmugdho001/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fahimshahriyarmugdho001/fahimshahriyarmugdho001/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/fahimshahriyarmugdho001/fahimshahriyarmugdho001/output/github-snake.svg" />
 </picture>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fahimshahriyarmugdho001&icon=0&color=0)](https://visitcount.itsvg.in)

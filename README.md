@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Mern Stack developer
+I'm a Mern Stack dev
 
 
 ## 🌐 Socials:

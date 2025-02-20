@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍂 About Me:
 I'm a passionate MERN Stack Developer with a strong focus on building efficient, scalable, and user-friendly applications. I love transforming ideas into reality using modern web technologies.
 
 🚀 What I Do

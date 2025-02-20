@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Mern Stack dev
+I'm a passionate MERN Stack Developer with a strong focus on building efficient, scalable, and user-friendly applications. I love transforming ideas into reality using modern web technologies.
 
 
 ## 🌐 Socials:
